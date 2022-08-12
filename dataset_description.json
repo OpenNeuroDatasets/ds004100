@@ -1,5 +1,5 @@
 {
-    "Name": " ",
+    "Name": "HUP iEEG Epilepsy Dataset",
     "BIDSVersion": "1.4.0",
     "DatasetType": "raw",
     "Authors": [
