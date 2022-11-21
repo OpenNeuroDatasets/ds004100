@@ -29,6 +29,15 @@
             "NR": "no resection/surgery"
         }
     },
+    "engel": {
+        "Description": "Engel surgical outcome after surgery",
+        "Levels": {
+            "1": "Free of disabling seizures",
+            "2": "Rare disabling seizures",
+            "3": "Worthwhile improvement",
+            "4": "No worthhwhile improvement",
+        }
+    },
     "therapy": {
         "Description": "Type of therapy employed",
         "Levels": {
